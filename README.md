@@ -10,6 +10,7 @@ Apart from coding. i'm also maintain blogs - you can find my articles on [Juejin
 ## ⚙ Technologies & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=007ACC&logoColor=white&color=347345)
 
 
 # *<p style="text-align: center">Stay awesome!</p>*
