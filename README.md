@@ -8,7 +8,8 @@ My name is Mingyue Liu and I'm a UI/Front-end developer. I'm from Xi'an city in 
 Apart from coding. i'm also maintain blogs - you can find my articles on [Juejin](https://juejin.cn/user/3087084380225741)
 
 ## ⚙ Technologies & Tools
-
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+<!-- https://img.shields.io/badge/Code-React-brightgreen -->
 
 # *<p style="text-align: center">Stay awesome!</p>*
 
