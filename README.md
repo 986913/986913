@@ -11,6 +11,12 @@ Apart from coding. i'm also maintain blogs - you can find my articles on [Juejin
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=007ACC&logoColor=white&color=347345)
+![](https://img.shields.io/badge/FrontEnd-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=834234)
+![](https://img.shields.io/badge/FrontEnd-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=834234)
+![](https://img.shields.io/badge/FrontEnd-SASS/SCSS-informational?style=flat&logo=Sass&logoColor=white&color=834234)
+
+
+
 
 
 # *<p style="text-align: center">Stay awesome!</p>*
