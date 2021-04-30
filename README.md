@@ -10,5 +10,5 @@ Apart from coding. i'm also maintain blogs - you can find my articles on [Juejin
 ## ⚙ Technologies & Tools
 
 
-# * <p style="text-align: center">Stay awesome!</p> *
+# *<p style="text-align: center">Stay awesome!</p>*
 
