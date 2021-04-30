@@ -14,7 +14,7 @@ Apart from coding. i'm also maintain blogs - you can find my articles on [Juejin
 ![](https://img.shields.io/badge/FrontEnd-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=834234)
 ![](https://img.shields.io/badge/FrontEnd-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=834234)
 ![](https://img.shields.io/badge/FrontEnd-SASS/SCSS-informational?style=flat&logo=Sass&logoColor=white&color=834234)
-
+![](https://img.shields.io/badge/Language-English/Manderian-informational?style=flat&logoColor=white&color=731933)
 
 
 
