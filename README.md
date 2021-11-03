@@ -1,7 +1,7 @@
 ![ml](https://user-images.githubusercontent.com/23319024/116723371-114eb180-a9a5-11eb-9f2f-03253131fbe6.png)
 
 # Hello, folks!  👋
-My name is Mingyue Liu and I'm a UI/Front-end developer. I'm from Xi'an city in China. living in Austin,USA and  currently working at Apple. you can find me at [LinkedIn](https://www.linkedin.com/in/mingyue-liu-22b37612a/)
+My name is Mingyue Liu and I'm a UI/Front-end developer. I'm from Xi'an city in China. living in Mc Lean, VA ,USA and  currently working as Software Engineer III for Walmart. you can find me at [LinkedIn](https://www.linkedin.com/in/mingyue-liu-22b37612a/)
 
 
 ## ✍️ Blog & Writing
@@ -15,8 +15,6 @@ Apart from coding. i'm also maintain blogs - you can find my articles on [Juejin
 ![](https://img.shields.io/badge/FrontEnd-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=834234)
 ![](https://img.shields.io/badge/FrontEnd-SASS/SCSS-informational?style=flat&logo=Sass&logoColor=white&color=834234)
 ![](https://img.shields.io/badge/Language-English/Manderian-informational?style=flat&logoColor=white&color=232410)
-
-
 
 
 # *<p style="text-align: center">Stay awesome!</p>*
