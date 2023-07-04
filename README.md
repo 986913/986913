@@ -20,5 +20,3 @@ Apart from coding. i'm also maintain blogs - you can find my articles on [DEV Co
 ![](https://img.shields.io/badge/DevOps-Jenkis-informational?style=flat&logo=Jenkis&logoColor=white&color=841235)
 
 # _<p style="text-align: center">Stay awesome!</p>_
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=986913&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
