@@ -1,5 +1,3 @@
-![Header Image](https://user-images.githubusercontent.com/23319024/116723371-114eb180-a9a5-11eb-9f2f-03253131fbe6.png)
-
 # Hi there, I'm Mingyue Liu 👋 
 
 **Software Engineer III @ Walmart | Full-Stack Developer | Front-End Developer**
