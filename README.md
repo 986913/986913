@@ -1,6 +1,6 @@
 # Hi there, I'm Mingyue Liu 👋
 
-**Senior Full-Stack Engineer @ Walmart | Platform & AI Engineering Explorer**
+**Full-Stack Engineer @ Walmart | Platform & AI Engineering Explorer**
 
 I build high-throughput microservices, automate cloud infrastructure, and productionalize AI-driven capabilities for enterprise-level platforms. 
 
