@@ -4,8 +4,6 @@
 
 I build high-throughput microservices, automate cloud infrastructure, and productionalize AI-driven capabilities for enterprise-level platforms. 
 
-- 🔭 **Current Focus**: Architecting NestJS microservices, infrastructure as code (Terraform), and implementing native LLM tool-use/RAG workflows.
-- ⚡ **Fun Fact**: I like my infra immutable, my state global, and my LLMs streaming.
 - 🌍 **Based in**: Fairfax, VA
 - 🔗 **Portfolio**: [www.mingyueliu.com](https://www.mingyueliu.com/) 
   *(Note: Detailed CV on site is access-protected for project confidentiality. DM for access.)*
@@ -24,14 +22,16 @@ I build high-throughput microservices, automate cloud infrastructure, and produc
 ![Terraform](https://img.shields.io/badge/-Terraform%20(HCL)-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS%20Enterprise%20Suite-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker%20%26%20Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-* **Compute & Orchestration:** ECS Fargate / EKS / Lambda / EC2
+* **Compute & Orchestration:** Kubernetes (K8s) / ECS Fargate / EKS / Lambda / EC2
 * **Data & Caching:** RDS / DynamoDB / ElastiCache (Redis) / S3
 * **Networking & Security:** VPC / ALB / CloudFront / IAM / Security Groups
 * **CI/CD & Observability:** GitHub Actions / CodePipeline / CloudWatch / Grafana
 
 #### ⚙️ Backend & Microservices
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
