@@ -6,7 +6,6 @@ I build high-throughput microservices, automate cloud infrastructure, and produc
 
 - 🌍 **Based in**: Fairfax, VA
 - 🔗 **Portfolio**: [www.mingyueliu.com](https://www.mingyueliu.com/) 
-  *(Note: Detailed CV on site is access-protected for project confidentiality. DM for access.)*
 
 ---
 
